@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fake News Detection</title>
+</head>
+<body>
+    <h1>Fake News Detection System</h1>
+    <form action="{{ url_for('predict') }}" method="post">
+        <textarea name="message" rows="10" cols="80" placeholder="Enter news article text here..."></textarea>
+        <br><br>
+        <button type="submit">Detect</button>
+    </form>
+</body>
+</html>
