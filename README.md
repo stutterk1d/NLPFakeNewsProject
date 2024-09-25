@@ -33,6 +33,7 @@ The project involves:
 │   ├── index.html
 │   └── result.html
 ├── README.md
+```
 
 ## Project Structure
 
