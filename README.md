@@ -58,7 +58,7 @@ The project involves:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/NLPFakeNewsProject.git
+    git clone https://github.com/stutterk1d/NLPFakeNewsProject.git
     cd NLPFakeNewsProject
     ```
 
